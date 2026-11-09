@@ -1,9 +1,9 @@
 # Tugas Praktikum Pemrograman Mobile
 
-* **Nama:** 
+* **Nama:** Mhd Fahri Irfandi Dewantara
 * **NIM:** H1D024012
-* **Shift Lama:** 
-* **Shift Baru:** 
+* **Shift Lama:** C
+* **Shift Baru:** F
 
 ---
 
