@@ -20,4 +20,7 @@ Aplikasi ini dibangun menggunakan framework **Flutter** yang mencakup implementa
 
 | Halaman Login | Halaman About Page | Halaman Sidemenu |
 | :---: | :---: | :---: |
-| ![Halaman Login](docs/screenshots/login.png) | ![Halaman About Page](docs/screenshots/about.png) | ![Halaman Sidemenu](docs/screenshots/sidemenu.png) |
+| ![Halaman Login](<img width="1080" height="2460" alt="image" src="https://github.com/user-attachments/assets/4ffd0dcd-f08f-4fce-b2dc-6ad1974774f7" />
+) | ![Halaman About Page](<img width="1080" height="2460" alt="image" src="https://github.com/user-attachments/assets/f2c9c301-d8f5-43ef-9ff7-1710c2236705" />
+) | ![Halaman Sidemenu](<img width="1080" height="2460" alt="image" src="https://github.com/user-attachments/assets/fe433b19-0674-46b7-91bb-4a3c72e0d22c" />
+) |
