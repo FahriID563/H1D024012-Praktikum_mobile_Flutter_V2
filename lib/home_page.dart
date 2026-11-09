@@ -11,8 +11,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  // ignore: prefer_typing_uninitialized_variables
-  var namauser;
+  String? namauser;
 
   void _loadUsername() async {
     // Inisialisasi share preferences

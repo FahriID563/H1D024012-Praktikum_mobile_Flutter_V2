@@ -13,8 +13,7 @@ class LoginPage extends StatefulWidget {
 class _LoginPageState extends State<LoginPage> {
   final TextEditingController _usernameController = TextEditingController();
   final TextEditingController _passwordController = TextEditingController();
-  // ignore: prefer_typing_uninitialized_variables
-  var namauser;
+  String? namauser;
 
   void _saveUsername() async {
     // Inisialisasi Share Preferences
@@ -23,7 +22,7 @@ class _LoginPageState extends State<LoginPage> {
     prefs.setString('username', _usernameController.text);
   }
 
-  _showInput(namacontroller, placeholder, isPassword) {
+  Widget _showInput(TextEditingController namacontroller, String placeholder, bool isPassword) {
     return TextField(
       controller: namacontroller,
       obscureText: isPassword,
@@ -33,8 +32,8 @@ class _LoginPageState extends State<LoginPage> {
     );
   }
 
-  _showDialog(pesan, alamat) {
-    return showDialog(
+  void _showDialog(String pesan, Widget alamat) {
+    showDialog(
       context: context,
       builder: (context) {
         return AlertDialog(
