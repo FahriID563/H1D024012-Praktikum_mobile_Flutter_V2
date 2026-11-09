@@ -18,10 +18,6 @@ Aplikasi ini dibangun menggunakan framework **Flutter** yang mencakup implementa
 
 ## 📸 Praktikum Flutter Screenshot
 
-| Halaman Login | Halaman Home (Side Menu) | Halaman About |
-| :---: | :---: | :---: |
-| ![Login Screen](docs/screenshots/login.png) | ![Home Screen](docs/screenshots/home.png) | ![About Screen](docs/screenshots/about.png) |
-
-| Form Produk | Detail Produk | List Data Produk |
-| :---: | :---: | :---: |
-| ![Form Produk](docs/screenshots/produk_form.png) | ![Detail Produk](docs/screenshots/produk_detail.png) | ![List Produk](docs/screenshots/produk_page.png) |
+| Halaman Login | Halaman Home Page |
+| :---: | :---: |
+| ![Login Screen](docs/screenshots/login.png) | ![Home Screen](docs/screenshots/home.png) |
