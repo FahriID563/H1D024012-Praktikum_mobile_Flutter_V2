@@ -1,4 +1,4 @@
-package com.example.belajar_flutter
+package com.example.tokokita
 
 import io.flutter.embedding.android.FlutterActivity
 

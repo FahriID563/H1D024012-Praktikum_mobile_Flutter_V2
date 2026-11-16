@@ -1,4 +1,4 @@
-# Tugas Praktikum Pemrograman Mobile
+# Tugas Praktikum Pemrograman Mobile - Tokokita
 
 * **Nama:** Mhd Fahri Irfandi Dewantara
 * **NIM:** H1D024012
@@ -8,11 +8,10 @@
 ---
 
 ## 📌 Penjelasan Singkat Kode
-Aplikasi ini dibangun menggunakan framework **Flutter** yang mencakup implementasi dari **Modul 2** dan **Modul 3** Praktikum Pemrograman Mobile:
-* **Autentikasi Login:** Halaman login dengan input username & password (`admin` / `admin`).
-* **Local Storage (SharedPreferences):** Menyimpan data nama pengguna (`username`) secara lokal di perangkat.
-* **Side Menu / Drawer:** Navigasi menu samping untuk berpindah antar halaman (`Home Page` dan `About Page`).
-* **Widget & Design Flutter:** Penggunaan widget dasar (`Column`, `Row`), form input data produk (`ProdukForm` & `ProdukDetail`), serta daftar produk (`ListView` & `Card`).
+Aplikasi ini dibangun menggunakan framework **Flutter** (Project **Tokokita**) yang mencakup implementasi Praktikum Pemrograman Mobile:
+* **Autentikasi Login & Registrasi:** Halaman login dan registrasi pengguna (`LoginPage` & `RegistrasiPage`).
+* **Model Data:** Pengelolaan model `Login`, `Registrasi`, dan `Produk`.
+* **CRUD Produk:** Halaman daftar produk (`ProdukPage`), detail produk (`ProdukDetail`), dan formulir tambah/ubah produk (`ProdukForm`).
 
 ---
 
